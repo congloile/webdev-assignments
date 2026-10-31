@@ -1,0 +1,41 @@
+/* Products page only - header and general layout come from style.css */
+.products-main {
+    padding: 25px;
+    text-align: left;
+}
+
+.products-hero img {
+    height: 220px;
+    object-position: center 65%;
+}
+
+.products-hero p {
+    margin: 15px 0 25px;
+    line-height: 1.5;
+}
+
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.products-card {
+    padding: 15px;
+    background-color: #e9e4df;
+}
+
+.products-card h2 {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0 0 12px;
+}
+
+.products-card img {
+    height: 220px;
+}
+
+.products-card p {
+    font-size: 14px;
+    line-height: 1.5;
+}
