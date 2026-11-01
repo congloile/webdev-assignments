@@ -2,16 +2,14 @@
 
 [View exercises on Metropolia](https://users.metropolia.fi/~congl/js-1-2/)
 
-## Completed assignments
+## Completed Assignments
 
-- Task 1: 1 point
-- Task 2: 2 points
-- Task 3: 3 points
-- Task 4: 3 points
-- Task 5: 3 points
-- Task 6: 3 points
-- Task 7: 2 points
-- Task 8: 3 points
-- Task 9: 2 points
-
-**Total: 22 points**
+- Assignment 1: Completed
+- Assignment 2: Completed
+- Assignment 3: Completed
+- Assignment 4: Completed
+- Assignment 5: Completed
+- Assignment 6: Completed
+- Assignment 7: Completed
+- Assignment 8: Completed
+- Assignment 9: Completed

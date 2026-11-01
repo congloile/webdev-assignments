@@ -13,4 +13,4 @@ if (number === 1) {
     house = "Ravenclaw";
 }
 
-document.getElementById("result").textContent = `${name}, you are ${house}!`;
+document.getElementById("result").textContent = `${name}, you are ${house}.`;
