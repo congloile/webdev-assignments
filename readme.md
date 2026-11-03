@@ -40,7 +40,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS module 3: Arrays and functions (14.5 / 30 points)
+### JS module 3: Arrays and functions (17 / 30 points)
 
 - 1. Numbers in reverse order: ✔ completed, 2/2 test points (`js-3/assignment-1/assignment-1.js`)
 - 2. Participants in alphabetical order: ✔ completed, 2/2 test points (`js-3/assignment-2/assignment-2.js`)
@@ -49,6 +49,6 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 5. Stop at a repeated number: ✔ completed, 2/2 test points (`js-3/assignment-5/assignment-5.js`)
 - 6. Roll until six: ✔ completed, 2/2 test points (`js-3/assignment-6/assignment-6.js`)
 - 7. A die with any number of sides: ✔ completed, 2/2 test points (`js-3/assignment-7/assignment-7.js`)
-- 11. Publish, push and submit your links: ◐ partially completed, 0.5/3 test points
+- 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
 <!-- metropolia:progress:end -->
