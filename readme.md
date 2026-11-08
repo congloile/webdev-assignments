@@ -51,4 +51,8 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 7. A die with any number of sides: ✔ completed, 2/2 test points (`js-3/assignment-7/assignment-7.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
+### JS module 4: DOM and events (0 / 35 points)
+
+- 1. Add a list with innerHTML: ✘ not completed yet, 0/2 test points (`js-4/t1/1.js`)
+
 <!-- metropolia:progress:end -->
