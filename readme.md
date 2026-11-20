@@ -51,8 +51,19 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 7. A die with any number of sides: ✔ completed, 2/2 test points (`js-3/assignment-7/assignment-7.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS module 4: DOM and events (2 / 35 points)
+### JS module 4: DOM and events (13 / 35 points)
 
 - 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)
+- 2. Add a list with createElement(): ✔ completed, 2/2 test points (`js-4/t2/2.js`)
+- 3. A list from an array: ✔ completed, 2/2 test points (`js-4/t3/3.js`)
+- 4. Options from an array of objects: ✔ completed, 2/2 test points (`js-4/t4/4.js`)
+- 6. Button click: ✔ completed, 1/1 test points (`js-4/t6/6.js`)
+- 7. Hover effect: ✔ completed, 2/2 test points (`js-4/t7/7.js`)
+- 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
+
+### Python Flask server (14 / 20 points)
+
+- 1. Prime number service: ✔ completed, 1/1 test points (`flask/`)
+- 2. English-Finnish dictionary: ✔ completed, 1/1 test points (`flask/`)
 
 <!-- metropolia:progress:end -->
