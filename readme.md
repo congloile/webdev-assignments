@@ -7,11 +7,11 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 
 ## My links at users.metropolia.fi
 
-- HTML and CSS: https://users.metropolia.fi/congl/html-css/
-- JS modules 1 and 2: https://users.metropolia.fi/~username/js-1-2/
-- JS module 3: https://users.metropolia.fi/~username/js-3/
-- JS module 4: https://users.metropolia.fi/~username/js-4/
-- JS module 5: https://users.metropolia.fi/~username/js-5/
+- HTML and CSS: https://users.metropolia.fi/~congl/html-css/
+- JS modules 1 and 2: https://users.metropolia.fi/~congl/js-1-2/
+- JS module 3: https://users.metropolia.fi/~conl/js-3/
+- JS module 4: https://users.metropolia.fi/~congl/js-4/
+- JS module 5: https://users.metropolia.fi/~congl/js-5/
 
 Add notes about any problems or extra features here.
 
